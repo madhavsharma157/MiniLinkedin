@@ -4,7 +4,7 @@
 ## 🚀 Live Demo
 
 👉 [Live Demo URL](https://preview-mini-linkedin-clone-kzmq8rk4ozytvyb981u7.vusercontent.net/auth/login)  
-_(Replace with actual deployed URL, e.g., Vercel)_
+
 
 ---
 
@@ -43,7 +43,7 @@ Example:
 
 - ✅ Email/password registration
 - ✅ Session management via cookies
-- - ✅ Create posts, view profile, edit user details
+- ✅ Create posts, view profile, edit user details
 - ✅ Fully responsive UI
 - ✅ Tailwind + shadcn components
 - ✅ Vercel deploy-ready
